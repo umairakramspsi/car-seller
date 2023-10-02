@@ -10,7 +10,7 @@ function App() {
       <Nav />
       <Router>
         <Routes>
-          <Route exact path="/page/:page" Component={CarListPagination}/>
+          <Route exact path="/" Component={CarListPagination}/>
           <Route Component={Notfond}/>
         </Routes>
       </Router>
