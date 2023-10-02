@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "~font-awesome/css/font-awesome.css";
+body{
+  background: #dcdcdc;
+}
+.good{
+  color: aliceblue;
+}
